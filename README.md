@@ -10,4 +10,4 @@ I also created visualizations using graphs to better understand the dataset. Add
 
 Many thanks to my mentor, Minakshi Gautam, for her invaluable guidance throughout the internship.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D5I140yZh)](https://www.youtube.com/embed/D5I140yZh-U?si=9FekVcbMa3eJifHL)
+Demonstration Video: https://www.youtube.com/watch?v=D5I140yZh
